@@ -1,16 +1,5 @@
 /* Add CSS Styling */
 
-.odd { 
+p { 
     background-color: pink;font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-.biggo{
-    font-size: 24px;
-}
-
-#four{
-    font-weight: bold; font-size: 24px; background-color: lightgreen; 
-}
-
-#two{
-    color: blue; font-size: 36px;
 }
